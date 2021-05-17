@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/hazmicokro/hazmicokro/master/Base.png "Header")](https://instagram.com/hazmicokro)
 
-# Hai.., folks!
+# Hai.., folks! Welcome to my Github Profile ![](https://komarev.com/ghpvc/?username=hazmicokro&label=PROFILE+VISITS)
 
 My name is Hazmi Cokro and I'm a Student Bachelor. I'm from Indonesia, living in Malang. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
