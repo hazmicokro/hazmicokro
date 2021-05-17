@@ -1,18 +1,21 @@
 [![Header](https://raw.githubusercontent.com/hazmicokro/hazmicokro/master/Base.png "Header")](https://instagram.com/hazmicokro)
 
-### Hi there 👋
+# Hai.., folks!
 
-<!--
-**hazmicokro/hazmicokro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Hazmi Cokro and I'm a Student Bachelor. I'm from Indonesia, living in Malang. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-Here are some ideas to get you started:
+<a href="https://github.com/hazmicokro/hazmicokro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazmicokro&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/hazmicokro/hazmicokro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hazmicokro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+[1.2]: http://i.imgur.com/wWzX9uB.png 
+[2.2]: http://i.imgur.com/9I6NRUm.png 
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[1]: https://twitter.com/hazmi_cokro
+[2]: https://github.com/hazmicokro
+[3]: https://www.linkedin.com/in/hazmi-cokro-549488134/
