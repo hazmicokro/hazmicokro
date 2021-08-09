@@ -18,4 +18,4 @@ My name is Hazmi Cokro and I'm a Student Bachelor. I'm from Indonesia, living in
 
 [1]: https://twitter.com/hazmi_cokro
 [2]: https://github.com/hazmicokro
-[3]: https://www.linkedin.com/in/hazmi-cokro-549488134/
+[3]: https://www.linkedin.com/in/hazmicokro/
