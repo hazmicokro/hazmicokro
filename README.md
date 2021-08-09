@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/hazmicokro/hazmicokro/master/Base.png "Header")](https://instagram.com/hazmicokro)
+[![Header](https://raw.githubusercontent.com/hazmicokro/hazmicokro/master/Profile.png "Header")](https://instagram.com/hazmicokro)
 
 # Hai.., folks! Welcome to my Github Profile ![](https://komarev.com/ghpvc/?username=hazmicokro&label=PROFILE+VISITS)
 
