@@ -10,7 +10,7 @@ You can find me on Social media account in down below:
   <a href="https://t.me/hazmicokro">
   <img align="left" alt="Hazmi Cokro Telegram" width="30px" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/telegram.svg" />
 </a>
-<a href="https://fb.com/xtenzq" target="blank"><img align="left" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/facebook.svg" alt="xtenzq" width="30px" /></a>
+<a href="https://fb.com/hazmicokro" target="blank"><img align="left" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/facebook.svg" alt="xtenzq" width="30px" /></a>
 </br>
 
 ## Tools
