@@ -2,7 +2,7 @@
 
 # Hai.., folks! Welcome to my Github Profile ![](https://komarev.com/ghpvc/?username=hazmicokro&label=PROFILE+VISITS)
 
-My name is Hazmi Cokro and I'm a Student Bachelor. I'm from Indonesia, living in Malang. \
+My name is Hazmi Cokro. I'm from Indonesia, living in Malang. \
 You can find me on Social media account in down below:
 
 <a href="https://instagram.com/hazmicokro" target="blank"><img align="left" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/instagram.svg" alt="xtenzq" width="30px" /></a>
