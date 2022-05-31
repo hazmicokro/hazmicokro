@@ -16,7 +16,7 @@ You can find me on Social media account in down below:
 ## Tools
 <p align="left">
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/tensorflow.svg" alt="python" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="35" height="35"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="35" height="35"/></a> &nbsp;
 
 ## Github Statistics
