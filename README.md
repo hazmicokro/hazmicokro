@@ -5,12 +5,12 @@
 My name is Hazmi Cokro. I'm from Indonesia, living in Malang. \
 You can find me on Social media account in down below:
 
-<a href="https://instagram.com/hazmicokro" target="blank"><img align="left" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/instagram.svg" alt="xtenzq" width="30px" /></a>
-<a href="https://linkedin.com/in/hazmicokro" target="blank"><img align="left" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/linkedin.svg" alt="xtenzq" width="30px" /></a>
+<a href="https://instagram.com/hazmicokro" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="xtenzq" width="30px" /></a>
+<a href="https://linkedin.com/in/hazmicokro" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="xtenzq" width="30px" /></a>
   <a href="https://t.me/hazmicokro">
-  <img align="left" alt="Hazmi Cokro Telegram" width="30px" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/telegram.svg" />
+  <img align="left" alt="Hazmi Cokro Telegram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
-<a href="https://fb.com/hazmicokro" target="blank"><img align="left" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/facebook.svg" alt="xtenzq" width="30px" /></a>
+<a href="https://fb.com/hazmicokro" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" alt="xtenzq" width="30px" /></a>
 </br>
 
 ## Tools
@@ -18,7 +18,9 @@ You can find me on Social media account in down below:
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="35" height="35"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="35" height="35"/></a> &nbsp;
-
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original-wordmark.svg" alt="wordpress" width="35" height="35"/></a> &nbsp;
+  
 ## Github Statistics
 <a href="https://github.com/hazmicokro/hazmicokro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazmicokro&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
